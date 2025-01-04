@@ -1,0 +1,16 @@
+﻿  Constants.cpp
+  shader_manager.cpp
+  coordinate_system.cpp
+H:\work_space\OpenGL\OpenGL\GettingStarted\coordinate_system.cpp(123,36): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+H:\work_space\OpenGL\OpenGL\GettingStarted\coordinate_system.cpp(127,45): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+  shader.cpp
+H:\work_space\OpenGL\OpenGL\GettingStarted\shader.cpp(193,29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  texture_manager.cpp
+  transformations.cpp
+H:\work_space\OpenGL\OpenGL\GettingStarted\transformations.cpp(204,63): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+H:\work_space\OpenGL\OpenGL\GettingStarted\transformations.cpp(204,31): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+H:\work_space\OpenGL\OpenGL\GettingStarted\transformations.cpp(213,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  OpenGL.cpp
+  正在生成代码...
+  glad.c
+  OpenGL.vcxproj -> H:\work_space\OpenGL\x64\Debug\OpenGL.exe
